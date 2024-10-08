@@ -19,6 +19,7 @@ public class CategoriaController {
     @PostConstruct
     public void init(){
     System.out.print("this");
+    if(1==1);
     }
     
 }
